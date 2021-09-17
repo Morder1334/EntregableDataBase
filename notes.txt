@@ -1,4 +1,4 @@
-create table notes_db;
+create database notes_db;
 USE notes_db;
 
 CREATE TABLE status (
